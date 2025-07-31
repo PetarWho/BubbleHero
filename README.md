@@ -3,7 +3,7 @@
 - The theme for this year was "**_Bubble_**"
 
 ## Description 💬
-**Bubble Hero** is a First Person Shooter game in which the player shoots bubbles to capture animals and save them from the extreme heatwave coming from behind the player, while also doing parkour to evade obstacles and run away from the heatwave.
+**Bubble Hero** is a First Person Shooter game in which the player shoots bubbles to capture animals and save them from the extreme heatwave coming from behind the player, while also doing parkour to evade obstacles and run away from the heatwave. The game was built on Unreal Engine 5 as we wanted to try something new and we had little to no experience in Unreal Engine.
 
 ## Mechanics ⚙️
 The game features several core mechanics:
